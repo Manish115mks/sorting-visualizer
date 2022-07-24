@@ -5,6 +5,7 @@
 - Insertion Sort
 - Quick Sort
 - Merge Sort
+Working Link - https://manish115mks.github.io/sorting-visualizer/
 
 ### This is built using HTML, CSS, JavaScript <br/>
 <img src="img/img1.png"> <br/>
